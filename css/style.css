@@ -20,6 +20,12 @@ header{
     text-align: center;
     
 }
+h1{
+    /* color: white; */
+    /* text-shadow: 2px 2px 4px #0a0000; */
+    color: #1D3124;
+    font-size: 2rem;
+  }
 article{
     width: 800px;
     flex:2;
@@ -65,3 +71,14 @@ footer{
     
         
      }
+     nav ul li a:link, nav ul li a:active, nav ul li a:visited{
+        color: #000000;
+        text-decoration: none;
+        font-size: 1rem;
+    
+    }
+    
+    nav ul li a:hover{
+        background-color: #fa0404;
+        /* text-decoration: underline; */
+        color: #fff;
