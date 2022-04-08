@@ -13,6 +13,9 @@ body{
 header{
     width: 1000px;
     height: 80px;
+    color: #200f08;
+    padding-left: 10px;
+    padding-right: 10px;
     background-color: bisque;
     text-align: center;
     
